@@ -1,8 +1,48 @@
 p {
     color: magenta;
+    font-size: 15px;
+    text-align: center;
 }
 
 h1{
     color: red;
     text-align: center;
+
+}
+h3{
+    color: red;
+    text-align: center;
+}
+h4{
+    color: firebrick;
+}
+h2{
+    color: blue;
+    
+}
+ul{
+    color: forestgreen;
+}
+span{
+    color: violet;
+}
+
+a{
+    color: black;
+}
+
+.cocagelada {  
+    color: magenta;
+    text-align: center;
+    font-size: 30px;
+}
+
+#choco {
+    color: brown;
+    text-align: center;
+    font-size: medium;
+}
+
+h2.titulo{
+    color: aqua;
 }
